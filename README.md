@@ -1,7 +1,7 @@
 # Hi, I'm Nikhil Tanwar  
 ## Fintech | Cybersecurity | Data Science | ML Enthusiast  
 
-I'm a Master's student in WEb and Data Science at University Koblenz, passionate about building secure, scalable, and smart solutions for modern finance and tech. I love blending **data science**, **cybersecurity**, and **machine learning** to solve real-world challenges.
+I'm a Master's student in Web and Data Science at University Koblenz, passionate about building secure, scalable, and smart solutions for modern finance and tech. I love blending **data science**, **cybersecurity**, and **machine learning** to solve real-world challenges.
 
 ### ⚡ What I Do:
 - Building projects focused on **financial data analytics**, **fraud detection**, and **secure systems**

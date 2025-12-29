@@ -25,13 +25,11 @@ I'm a Master's student in Web and Data Science at University Koblenz, passionate
 ---
 
 ### 📊 Coding Profiles  
-- [LeetCode](#) — *Add your profile link*  
-- [Codeforces](#) — *Add your profile link*  
 - [GitHub](https://github.com/NikhilTanwar48)
 
 ---
 
 ### 📫 Let's Connect  
 [LinkedIn](https://www.linkedin.com/in/nikhil-tanwar/)  
-[Portfolio Website](#) — *I can help you create this next*
+[Portfolio Website](https://nikhiltanwarportfolio.vercel.app/)
 
